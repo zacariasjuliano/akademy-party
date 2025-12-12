@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "akademy_party"
-version = "1.0.1"
+version = "1.0.2"
 description = "SAGE Education is a free and open-source project for educators, educational institutions, and governments."
 authors = [
     { name = "Zacarias Juliano Capingala", email = "zacariasjuliano@gmail.com" }
@@ -26,6 +26,7 @@ Documentation = "https://docs.comunidadedosaber.ao"
 Demo = "https://sage.comunidadedosaber.ao"
 Repository = "https://github.com/comunidadedosaber/akademy-party"
 "Bug Tracker" = "https://github.com/comunidadedosaber/akademy-party/issues"
+Changelog = "https://github.com/comunidadedosaber/akademy-party/blob/main/CHANGELOG.md"
 
 [tool.poetry]
 classifiers=[

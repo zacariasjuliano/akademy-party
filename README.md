@@ -1,7 +1,7 @@
 # 🏫 SAGE Education - Institutional Management / ERP
 
 **Version:** 1.0  
-**Module:** Akademy Party 
+**Module:** Akademy Party  
 **Developer:** Zacarias Juliano Capingala *(Homem Marketing)*  
 **Date:** 21/11/2025
 
