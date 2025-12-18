@@ -20,7 +20,7 @@ We hope you find **SAGE Education** motivating and inspiring, and we look forwar
 
 ---
 
-## ⚙️ Akademy Party Module
+## Akademy Party Module
 
 The **Akademy Party (Entity Management)** is a complementary module responsible for **expanding the functionalities** of the **Entity Management** module, offering advanced tools for managing entities within the organization.  
 
