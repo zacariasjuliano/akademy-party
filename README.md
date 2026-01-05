@@ -2,9 +2,11 @@
 
 **Version:** 1.0.x  
 **Module:** Akademy Party  
-**Developer:** Zacarias Juliano Capingala *(Homem Marketing)*  
+**Developer:** Zacarias Juliano Capingala   
+
 
 ---
+
 
 ## 📘 About the Project
 
@@ -17,23 +19,54 @@ No matter where in the world you live, we are passionate about upholding educati
 
 We hope you find **SAGE Education** motivating and inspiring, and we look forward to having you as part of the team.
 
+
 ---
+
 
 ## Akademy Party Module
 
-The **Akademy Party (Entity Management)** is a complementary module responsible for **expanding the functionalities** of the **Entity Management** module, offering advanced tools for managing entities within the organization.  
+The **Akademy Party (Entity Management)** is a complementary module responsible for **expanding the functionalities** of the **Entity Management** module, offering advanced tools for managing entities within the organization.
+
+### 🎯 Purpose
+
+The module centralizes the **management of parties**, which can represent:
+- Person,
+- Institution.
+
+### ✨ Main Features
+
+- Extension of the Tryton `Party` model
+- Standardized party management for educational entities
+- Base functionality for other modules
+
 
 ---
 
 
-## 🌐 Homepage
+## 🌍 Target Audience
+
+- Educational institutions
+- System administrators
+- Open-source contributors
+- Governments and NGOs
+- Educational software integrators
+
+
+### 🌐 Homepage
 
 **Website:** [comunidadedosaber.ao](https://comunidadedosaber.ao)  
 **E-mail:** [comercial@comunidadedosaber.ao](mailto:comercial@comunidadedosaber.ao)
 
+
 ---
 
-## 💬 Technical Support
+
+## 🤝 Contributing
+
+Contributions are welcome!
+Please open an issue or submit a pull request following the SAGE Edu contribution guidelines.
+
+### 💬 Technical Support
 
 If you encounter any errors or require technical support, please contact us through the channels below:
 
