@@ -2,15 +2,15 @@
 <!-- This file is part of SAGE Education.   The COPYRIGHT file at the top level of
 this repository contains the full copyright notices and license terms. -->
 
-<!-- GRUPO DE PERMIÇÕES PARA USUÁRIOS DISCENTES -->
+<!-- GROUP OF PERMISSIONS FOR STUDENT USERS -->
 <tryton>
     <data>
-        <!-- Criar o grupo de usuários discente -->
+        <!-- Create the student user group. -->
         <record model="res.group" id="group_akademy_student">
             <field name="name">Akademy Discentes</field>
         </record>       
 
-        <!-- Acesso ao menu PARTY
+        <!-- Access to the PARTY menu
         <record model="ir.ui.menu-res.group" 
             id="akademy_party-group_akademy_student">
             <field name="menu" ref="akademy_party"/>
@@ -18,8 +18,8 @@ this repository contains the full copyright notices and license terms. -->
         </record> 
         -->
 
-        <!-- Definição de Regras de Acesso aos Modelos -->
-        <!-- Modelo PARTY -->
+        <!-- Defining Rules for Accessing Models -->
+        <!-- Party Model -->
         <record model="ir.model.access" 
             id="access_akademy_entities-group_akademy_student">
             <field name="model" search="[('model', '=', 'party.party')]"/>
@@ -53,7 +53,6 @@ this repository contains the full copyright notices and license terms. -->
             id="res_group_akademy_entities-group_akademy_student">
             <field name="rule_group" ref="rule_group_akademy_entities-group_akademy_student"/>
             <field name="group" ref="group_akademy_student"/>
-        </record>
-        
+        </record>        
     </data>
 </tryton>

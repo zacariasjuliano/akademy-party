@@ -2,23 +2,23 @@
 <!-- This file is part of SAGE Education.   The COPYRIGHT file at the top level of
 this repository contains the full copyright notices and license terms. -->
 
-<!-- GRUPO DE PERMIÇÕES PARA USUÁRIOS ADMINISTRADORES -->
+<!-- PERMISSION GROUP FOR ADMINISTRATOR USERS -->
 <tryton>
     <data>
-        <!-- Criar o grupo de usuários administrador -->
+        <!-- Create the administrator user group. -->
         <record model="res.group" id="group_akademy_admin">
             <field name="name">Akademy Admin</field>
         </record>
 
-        <!-- Atribui o usuário Administrador do Tryton
-         ao grupo de usuários Administrador Akademy -->
+        <!-- Assigns the Tryton Administrator user to the Akademy 
+         Administrator user group. -->
         <record model="res.user-res.group" 
             id="akademy_party-tryton_admin">
             <field name="user" ref="res.user_admin"/>
             <field name="group" ref="group_akademy_admin"/>
         </record>        
 
-        <!-- Acesso ao menu PARTY -->
+        <!-- Access to the PARTY menu -->
         <record model="ir.ui.menu-res.group" 
             id="akademy_party-group_akademy_admin">
             <field name="menu" ref="akademy_party"/>
@@ -30,8 +30,8 @@ this repository contains the full copyright notices and license terms. -->
             <field name="group" ref="group_akademy_admin"/>
         </record>
 
-        <!-- Definição de Regras de Acesso aos Modelos -->
-        <!-- Modelo PARTY -->
+        <!-- Defining Rules for Accessing Models -->
+        <!-- Party Model -->
         <record model="ir.model.access" 
             id="access_akademy_entities-group_akademy_admin">
             <field name="model" search="[('model', '=', 'party.party')]"/>
@@ -65,7 +65,6 @@ this repository contains the full copyright notices and license terms. -->
             id="res_group_akademy_entities-group_akademy_admin">
             <field name="rule_group" ref="rule_group_akademy_entities-group_akademy_admin"/>
             <field name="group" ref="group_akademy_admin"/>
-        </record>
-        
+        </record>        
     </data>
 </tryton>
