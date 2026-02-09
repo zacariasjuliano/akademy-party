@@ -3,7 +3,7 @@ name: Publish to PyPI
 on:
   push:
     tags:
-      - "v*.*.*"   # Será executado ao criar uma tag como v1.0.0
+      - "v*.*.*"   # Main tag v1.0.0
 
 jobs:
   publish:
