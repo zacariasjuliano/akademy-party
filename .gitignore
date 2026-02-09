@@ -3,6 +3,7 @@
 # Build artifacts
 dist/
 build/
+eggs/
 *.egg-info/
 
 # Setup Tryton Module
