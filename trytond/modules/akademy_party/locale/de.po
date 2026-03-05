@@ -1,0 +1,165 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+msgctxt "model:party.party,name:"
+msgid "Party"
+msgstr "Partei"
+
+msgctxt "model:ir.ui.menu,name:akademy_party"
+msgid "Gestão Entidades"
+msgstr "Verwaltung von Parteien"
+
+msgctxt "model:ir.ui.menu,name:akademy_entities"
+msgid "Entidades"
+msgstr "Parteien"
+
+msgctxt "field:party.party,is_person:"
+msgid "Pessoa"
+msgstr "Person"
+
+msgctxt "field:party.party,is_institution:"
+msgid "Instituição"
+msgstr "Institution"
+
+msgctxt "field:party.party,date_birth:"
+msgid "Nascimento"
+msgstr "Geburt"
+
+msgctxt "field:party.party,gender:"
+msgid "Gênero"
+msgstr "Geschlecht"
+
+msgctxt "selection:party.party,gender:"
+msgid "Masculino"
+msgstr "Männlich"
+
+msgctxt "selection:party.party,gender:"
+msgid "Feminino"
+msgstr "Weiblich"
+
+msgctxt "selection:party.party,gender:"
+msgid "Não-Binário"
+msgstr "Nicht-binär"
+
+msgctxt "selection:party.party,gender:"
+msgid "Gênero Fluído"
+msgstr "Fluid Gender"
+
+msgctxt "selection:party.party,gender:"
+msgid "Agênero"
+msgstr "Geschlechtslos"
+
+msgctxt "selection:party.party,gender:"
+msgid "Transgênero"
+msgstr "Transgender"
+
+msgctxt "selection:party.party,gender:"
+msgid "Bigenero"
+msgstr "Bigenero"
+
+msgctxt "selection:party.party,gender:"
+msgid "Gêneroqueer"
+msgstr "Queer"
+
+msgctxt "selection:party.party,gender:"
+msgid "Dois Espíritos"
+msgstr "Zwei Geschlechter"
+
+msgctxt "selection:party.party,gender:"
+msgid "Pangênero"
+msgstr "Pangender"
+
+msgctxt "field:party.party,marital_status:"
+msgid "Estado civil"
+msgstr "Familienstand"
+
+msgctxt "selection:party.party,marital_status:"
+msgid "Solteiro(a)"
+msgstr "Single"
+
+msgctxt "selection:party.party,marital_status:"
+msgid "Casado(a)"
+msgstr "Verheiratet"
+
+msgctxt "selection:party.party,marital_status:"
+msgid "Divorciado(a)"
+msgstr "Geschieden"
+
+msgctxt "selection:party.party,marital_status:"
+msgid "Víuvo(a)"
+msgstr "Witwer/Witwe"
+
+msgctxt "selection:party.party,marital_status:"
+msgid "Separado(a)"
+msgstr "Getrennt"
+
+msgctxt "selection:party.party,marital_status:"
+msgid "União Estável"
+msgstr "Lebensgemeinschaft"
+
+msgctxt "selection:party.party,marital_status:"
+msgid "Relacionamento Aberto"
+msgstr "Offene Beziehung"
+
+msgctxt "selection:party.party,marital_status:"
+msgid "Relação Doméstica Registrada"
+msgstr "Eingetragene Lebenspartnerschaft"
+
+msgctxt "selection:party.party,marital_status:"
+msgid "Casamento de Fato"
+msgstr "De facto Ehe"
+
+msgctxt "selection:party.party,marital_status:"
+msgid "Casamento Civil"
+msgstr "Standesamtliche Trauung"
+
+msgctxt "selection:party.party,marital_status:"
+msgid "Casamento Religioso"
+msgstr "Religiöse Hochzeit"
+
+msgctxt "field:party.party,bi_number:"
+msgid "B.I nº"
+msgstr "Ausweisnummer"
+
+msgctxt "field:party.party,father:"
+msgid "Pai"
+msgstr "Vater"
+
+msgctxt "field:party.party,mother:"
+msgid "Mãe"
+msgstr "Mutter"
+
+msgctxt "help:party.party,is_person:"
+msgid "A entidade é uma pessoa."
+msgstr "Die Partei ist eine Person."
+
+msgctxt "help:party.party,is_institution:"
+msgid "A entidade é uma instituição ou organização."
+msgstr "Die Partei ist eine Organisation."
+
+msgctxt "help:party.party,date_birth:"
+msgid "Data de nascimento."
+msgstr "Geburtsdatum."
+
+msgctxt "help:party.party,bi_number:"
+msgid "Número do bilhete de intidade."
+msgstr "Identitätsnummer."
+
+msgctxt "help:party.party,father:"
+msgid "Nome do pai."
+msgstr "Name des Vaters."
+
+msgctxt "help:party.party,mother:"
+msgid "Nome da mãe."
+msgstr "Name der Mutter."
