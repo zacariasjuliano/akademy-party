@@ -4,9 +4,9 @@ build-backend = "hatchling.build"
 
 [project]
 name = "akademy_party"
-version = "1.1.2"
+version = "7.0.0"
 description = "SAGE Education is a free and open-source project for educators, educational institutions, and governments."
-keywords = ["education", "institution", "SGA", "SGE", "SIE"]
+keywords = ["education", "SGA", "SGE", "SIE", "sage-edu", "school"]
 authors = [
     { name = "Zacarias Juliano Capingala", email = "zacariasjuliano@gmail.com" }
 ]

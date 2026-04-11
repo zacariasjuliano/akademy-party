@@ -1,8 +1,7 @@
 # 🏫 SAGE Education - Institutional Management / ERP
 
-**Version:** 1.2.x  
 **Module:** Akademy Party   
-**Developer:** Zacarias Juliano Capingala   
+**Version:** 7.0.x        
 
 
 ---
@@ -68,8 +67,8 @@ The module centralizes the **management of parties**, which can represent:
 ### 🌐 Homepage
   
 **Website:** [sage-edu.comunidadedosaber.ao](https://sage-edu.comunidadedosaber.ao)  
-**App:** [sage.comunidadedosaber.ao](https://sage-edu.comunidadedosaber.ao)  
-**Docs:** [docs.comunidadedosaber.ao](https://sage-edu.comunidadedosaber.ao)  
+**App:** [sage.comunidadedosaber.ao](https://sage.comunidadedosaber.ao)  
+**Docs:** [docs.comunidadedosaber.ao](https://docs.comunidadedosaber.ao)  
 **Team:** [comunidadedosaber.ao](https://comunidadedosaber.ao)  
 **PyPi:** [SAGE Edu](https://pypi.org/user/comunidade_do_saber)
 
